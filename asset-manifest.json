@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/radicalX-stage1/static/css/main.b7b4e221.css",
+    "main.js": "/radicalX-stage1/static/js/main.2176826f.js",
+    "static/js/787.93d12d35.chunk.js": "/radicalX-stage1/static/js/787.93d12d35.chunk.js",
+    "index.html": "/radicalX-stage1/index.html",
+    "main.b7b4e221.css.map": "/radicalX-stage1/static/css/main.b7b4e221.css.map",
+    "main.2176826f.js.map": "/radicalX-stage1/static/js/main.2176826f.js.map",
+    "787.93d12d35.chunk.js.map": "/radicalX-stage1/static/js/787.93d12d35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b4e221.css",
+    "static/js/main.2176826f.js"
+  ]
+}
